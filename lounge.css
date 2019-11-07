@@ -39,6 +39,7 @@ h2{
    text-align: center;
    background-image: url(images/cocktail.gif);
    background-repeat: repeat-x;
+   float: right;
  }
  #elixirs h2 {
    color: black;
@@ -49,6 +50,12 @@ h2{
  div h2{
    color: black;
  }
- #elixirs{
+ #elixirs {
    line-height: 1em;
+ }
+ .cd {
+   font-style: italic;
+ }
+ .artist {
+   font-weight: bold;
  }
